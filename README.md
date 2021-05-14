@@ -2,11 +2,14 @@
 
 # console.log("Roberto Carro Gastélum") 🧑💻
 
-
-
 ## Portfolio
 
 <a href="https://robcg1102.netlify.app/" target="_blank">Mi Portfolio</a>
+
+## Linkedin
+
+<a href="https://www.linkedin.com/in/roberto-carro/" target="_blank">Linkedin</a>
+
 
 <!--
 **robcg1102/robcg1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
