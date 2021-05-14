@@ -2,6 +2,8 @@
 
 # console.log("Roberto Carro Gastélum") 🧑💻
 
+Soy un Full Stack Developer. Uno de mis objetivos profesionales es trabajar en una empresa que me permita continuar evolucionando como desarrollador. Me considero un apasionado para crear herramientas con causa social.
+
 ## Portfolio
 
 <a href="https://robcg1102.netlify.app/" target="_blank">Mi Portfolio</a>
@@ -10,6 +12,14 @@
 
 <a href="https://www.linkedin.com/in/roberto-carro/" target="_blank">Linkedin</a>
 
+## Skills
+
+* React
+* HTML
+* CSS
+* Javascript
+* MongoDB
+* Python
 
 <!--
 **robcg1102/robcg1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
