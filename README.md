@@ -4,6 +4,8 @@
 
 Soy un Full Stack Developer. Uno de mis objetivos profesionales es trabajar en una empresa que me permita continuar evolucionando como desarrollador. Me considero un apasionado para crear herramientas con causa social.
 
+![robcg1102 github stats](https://github-readme-stats.vercel.app/api?username=robcg1102&show_icons=true)
+
 ### Portfolio
 
 <a href="https://robcg1102.netlify.app/" target="_blank">Mi Portfolio</a>
@@ -20,18 +22,3 @@ Soy un Full Stack Developer. Uno de mis objetivos profesionales es trabajar en u
 * Javascript
 * MongoDB
 * Python
-
-<!--
-**robcg1102/robcg1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
