@@ -4,7 +4,7 @@
 
 ## Portfolio
 
-<a href="https://robcg1102.netlify.app/" target="_blank">Mi Portfolio</a>
+[link](https://robcg1102.netlify.app/){:target="_blank"}
 
 <!--
 **robcg1102/robcg1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
