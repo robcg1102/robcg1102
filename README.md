@@ -1,4 +1,4 @@
-![Roberto Carro Gastélum - Web Developer](https://res.cloudinary.com/robcg1102/image/upload/v1620958735/robcg1102_knidn8.png)
+ <img src="https://res.cloudinary.com/robcg1102/image/upload/v1620958735/robcg1102_knidn8.png" alt="Roberto Carro Gastélum - Web Developer"> 
 
 # console.log("Roberto Carro Gastélum") 🧑💻
 
