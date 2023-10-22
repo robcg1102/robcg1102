@@ -4,7 +4,7 @@
 
 Soy un Full Stack Developer. Uno de mis objetivos profesionales es trabajar en una empresa que me permita continuar evolucionando como desarrollador. Deseo colaborar en la creación de herramientas con causa social.
 
-![robcg1102 github stats](https://github-readme-stats.vercel.app/api?username=robcg1102&show_icons=true)
+![leyla11 github stats](https://github-readme-stats.vercel.app/api?username=leyla11&show_icons=true)
 
 ### Portfolio
 
